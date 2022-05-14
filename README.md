@@ -2,7 +2,7 @@
 - 👀 I’m interested in Rock Climbing 
 - 🌱 I’m currently learning, always learning, never to old to learn 
 - 💞️ I’m looking to collaborate on Speed Timer
-- 📫 How to reach me via email, but I am sometimes away from email so don't epect an emidiate response
+- 📫 How to reach me via email, but I am sometimes away from email so don't expect a quick response. 
 
 <!---
 kipnewing/kipnewing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
